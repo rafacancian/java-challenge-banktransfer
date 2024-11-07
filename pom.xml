@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com</groupId>
-    <artifactId>cajucard</artifactId>
+    <artifactId>java-challenge-bank-transfer-caju</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cajucard</name>
     <description>Challenge for Caju Company</description>
